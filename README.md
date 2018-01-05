@@ -1,5 +1,5 @@
 # sudont
-Grant user permission, then do nothing
+Grants superuser permission, then does nothing
 
 # installing 
 To install, run the following command:
