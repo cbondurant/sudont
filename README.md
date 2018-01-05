@@ -3,7 +3,7 @@ Grant user permission, then do nothing
 
 # installing 
 To install, run the following command:
-```gcc dont.c -O3 -o dont; cd dont sudont /bin/```
+```gcc dont.c -O3 -o dont; sudo cd dont sudont /bin/```
 
 # using
 Run sudon't with the following command:
